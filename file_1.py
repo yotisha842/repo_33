@@ -1,4 +1,4 @@
-a = 10
+a = 2
 c = 0
 
 for i in range(a):
