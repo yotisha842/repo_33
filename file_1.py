@@ -1,4 +1,4 @@
-a = 2
+a = 7
 c = 0
 
 for i in range(a):
